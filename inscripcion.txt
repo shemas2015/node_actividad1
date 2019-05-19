@@ -1,0 +1,3 @@
+Nombre: sebas
+Cedula1016020661
+{"id":2,"nombre":"Metodologías ágiles","duracion":4,"valor":9}

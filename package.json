@@ -1,0 +1,15 @@
+{
+  "name": "actividad_1",
+  "version": "1.0.0",
+  "description": "Actividad número 1 de curso de node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastián Daza",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.9",
+    "yargs": "^13.2.4"
+  }
+}
